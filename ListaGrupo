@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1,=======GENERALISTA(**NAOACTUALIZAR-sic/sicnoticias/sicradical/tvi/tvi24**)=======
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://oi65.tinypic.com/33o41es.jpg", RTP 1
+http://62.167.50.245:8000/play/a00t
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://oi68.tinypic.com/4v4oee.jpg", RTP 2
+http://62.167.50.245:8000/play/a00u
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="http://oi68.tinypic.com/19tdh5.jpg",PT: RTP 3
+http://62.167.50.245:8000/play/a00w
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="http://oi68.tinypic.com/2q19sfp.jpg",PT: RTP MEMORIA
+http://62.167.50.245:8000/play/a042
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="http://oi66.tinypic.com/2cz6e4z.jpg",PT: RTP AFRICA
+http://62.167.50.245:8000/play/a047
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://oi65.tinypic.com/eqyvtj.jpg",PT: SIC
+http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="http://oi65.tinypic.com/72ykb6.jpg",PT: SIC NOTICIAS
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-logo="http://oi66.tinypic.com/2v0lxkg.jpg",PT: SIC MULHER
+http://ultra-iptv.best-tv.us:13884/live/lana/lana/4690.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-logo="http://oi63.tinypic.com/1221ze0.jpg",PT: SIC RADICAL
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:-1 tvg-id="SICC" tvg-logo="http://oi66.tinypic.com/r0y4uo.jpg",PT: SIC CARAS
+http://62.167.50.245:8000/play/a044
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="http://oi68.tinypic.com/2j0e3bt.jpg",PT: TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/geektugavip.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="http://oi63.tinypic.com/2la4r5l.jpg",PT: TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/geektugavip.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="http://i65.tinypic.com/28tuhvk.jpg",PT: TVI FICCAO
+http://62.167.50.245:8000/play/a02f
+#EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="http://oi66.tinypic.com/fm2o80.jpg",PT: TVI REALITY
+http://ultra-iptv.best-tv.us:13884/live/lana/lana/4711.ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://oi66.tinypic.com/33075w4.jpg",PT: CMTV
+http://62.167.50.245:8000/play/a03v
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="http://oi65.tinypic.com/2difw3p.jpg",PT: A BOLA TV
+http://62.167.50.245:8000/play/a02g
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://oi66.tinypic.com/2afjwua.jpg",PT: PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/geektugavip.m3u8
+
+#EXTINF:-1,=======DESPORTO=======
+#EXTINF:-1 tvg-id="sporttv+.pt" tvg-logo="http://oi67.tinypic.com/95u902.jpg",PT: SPORTTV +
+http://pro.leaderiptv.com:8000/live/TATA/TATA/1185.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://oi67.tinypic.com/taoi85.jpg",PT: SPORTTV 1
+http://149.202.196.143:8000/live/999854/999854/1060.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://oi68.tinypic.com/fk6vkk.jpg",PT: SPORTTV 2
+http://149.202.196.143:8000/live/999854/999854/689.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://oi68.tinypic.com/2r5er8o.jpg",PT: SPORTTV 3
+http://149.202.196.143:8000/live/974855/974855/690.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://oi66.tinypic.com/992y9w.jpg",PT: SPORTTV 4
+http://149.202.196.143:8000/live/999854/999854/691.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="http://oi67.tinypic.com/neul9g.jpg",PT: SPORTTV 5
+http://149.202.196.143:8000/live/999854/999854/692.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://oi63.tinypic.com/643pj4.jpg",PT: SPORTTV 1 HD
+http://ringiptv.net:2500/live/hedi/hedi/1813.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="http://oi63.tinypic.com/21acrc8.jpg",PT: SPORTTV 2 HD
+http://ringiptv.net:2500/live/hedi/hedi/889.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="http://oi63.tinypic.com/j76esh.jpg",PT: SPORTTV 3 HD
+http://ringiptv.net:2500/live/hedi/hedi/1273.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="http://oi66.tinypic.com/2lkdyjk.jpg",PT: SPORTTV 4 HD
+http://ringiptv.net:2500/live/hedi/hedi/1274.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="http://oi67.tinypic.com/2dt8wgo.jpg",PT: SPORTTV 5 HD
+http://ringiptv.net:2500/live/hedi/hedi/1814.ts
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="http://oi68.tinypic.com/2ylmys8.jpg",PT: BENFICA TV
+acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="http://oi65.tinypic.com/344389f.jpg",PT: SPORTING TV
+http://149.202.196.143:8000/live/999854/999854/693.ts
+#EXTINF:-1 tvg-id="RealMadridTV.pt" tvg-logo="http://oi64.tinypic.com/16l08s8.jpg",PT: Real Madrid TV
+http://62.167.50.245:8000/play/a01g
+#EXTINF:-1 tvg-id="Barca.pt" tvg-logo="http://oi65.tinypic.com/2e1rmyp.jpg",PT: BARÇA TV
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10669.ts
+#EXTINF:-1 tvg-id="NBA.pt" tvg-logo="http://oi66.tinypic.com/2itqydk.jpg",PT: NBA
+http://62.167.50.245:8000/play/a038
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-logo="http://oi68.tinypic.com/14j1bbl.jpg",PT: EUROSPORT 1
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10566.ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-logo="http://oi64.tinypic.com/aewufl.jpg",PT: EUROSPORT 2
+http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20615.ts
+
+#EXTINF:-1,=======INFANTIL=======
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2m3hgeo.jpg",PT: DISNEY CHANNEL
+http://62.167.50.245:8000/play/a02c
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/20k6qvk.jpg",PT: NICKELODEON
+http://149.202.208.25:5210/live/GSUT-PRM8-FVGL-GWBH/p5u3BkWtk1/7646.ts
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/205t8x4.jpg",PT: CANAL PANDA
+http://62.167.50.245:8000/play/a039
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/6fmnuf.jpg",PT: DISNEY JUNIOR
+http://51.255.74.170:7000/live/marius/marius/4595.ts
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/xkobkp.jpg",PT: CARTOON NETWORK
+http://62.167.50.245:8000/play/a03e
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/kb4osh.jpg",PT: BABY TV
+http://62.167.50.245:8000/play/a012
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/iw2f6u.jpg",PT: JIM JAM
+http://62.167.50.245:8000/play/a01d
+
+#EXTINF:-1,=======ENTRETENIMENTO=======
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/30ho21t.jpg",PT: TVCINE 1
+http://149.202.196.143:8000/live/999854/999854/695.ts
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/3023v5z.jpg",PT: TVCINE 2
+http://149.202.196.143:8000/live/999854/999854/696.ts
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/epkdjn.jpg",PT: TVCINE 3
+http://62.167.50.245:8000/play/a028
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2lk3be0.jpg",PT: TVCINE 4
+http://62.167.50.245:8000/play/a01e
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2uiu2vm.jpg",PT: TV SERIES
+http://62.167.50.245:8000/play/a029
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2rel56b.jpg",PT: HOLLYWOOD
+http://62.167.50.245:8000/play/a014
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/14j6hrc.jpg",PT: AXN BLACK
+http://62.167.50.245:8000/play/a064
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2ed2m44.jpg",PT: AXN
+http://electro-tunis.biz:8000/live/mohsen123/mohsen123/3413.ts
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2le6l21.jpg",PT: AMC
+http://62.167.50.245:8000/play/a016
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2s7za74.jpg",PT: FOX LIFE
+http://62.167.50.245:8000/play/a068
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2566a77.jpg",PT: FOX
+http://149.202.196.143:8000/live/999854/999854/682.ts
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/16lxk46.jpg",PT: FOX CRIME
+http://62.167.50.245:8000/play/a069
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/ery9l0.jpg",PT: FOX COMEDY
+http://62.167.50.245:8000/play/a043
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2u7stj9.jpg",PT: FOX MOVIES
+http://149.202.196.143:8000/live/999854/999854/684.ts
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2dbnk1d.jpg",PT: AXN WHITE
+http://62.167.50.245:8000/play/a066
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/fa97k7.jpg",PT: TLC
+http://
+ 
+#EXTINF:-1,=======DOCUMENTARIOS=======
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/5v572g.jpg",PT: CANAL HISTORIA
+http://62.167.50.245:8000/play/a0111
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/a4mlox.jpg",PT: DISCOVERY
+http://62.167.50.245:8000/play/a022
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/1604ex.jpg",PT: ODISSEIA
+http://62.167.50.245:8000/play/a023
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2r5t5rb.jpg",PT: NATIONAL GEOGRAPHIC
+http://51.255.74.170:7000/live/marius/marius/4611.ts
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/20ggwed.jpg",PT: NATIONAL GEOGRAPHIC WILD
+http://62.167.50.245:8000/play/a03y
+
+#EXTINF:-1,=======ADULTOS=======
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/1zmmo12.jpg",PT: PLAYBOY TV
+http://62.167.50.245:8000/play/a04e
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/6zoa38.jpg",PT: VENUS
+http://62.167.50.245:8000/play/a026
