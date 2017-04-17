@@ -35,7 +35,8 @@ http://62.167.50.245:8000/play/a02g
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://oi66.tinypic.com/2afjwua.jpg",PT: PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/geektugavip.m3u8
 
-#EXTINF:-1,=======DESPORTO=======
+#EXTINF:-1,=======DE
+O=======
 #EXTINF:-1 tvg-id="sporttv+.pt" tvg-logo="http://oi67.tinypic.com/95u902.jpg",PT: SPORTTV +
 http://pro.leaderiptv.com:8000/live/TATA/TATA/1185.ts
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="http://oi67.tinypic.com/taoi85.jpg",PT: SPORTTV 1
@@ -140,3 +141,7 @@ http://62.167.50.245:8000/play/a03y
 http://62.167.50.245:8000/play/a04e
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/6zoa38.jpg",PT: VENUS
 http://62.167.50.245:8000/play/a026
+
+#EXTINF:-1,=======desporto teste=======
+#EXTINF:-1 tvg-id="sporttv+.pt" tvg-logo="http://oi67.tinypic.com/95u902.jpg",PT: SPORTTV + teste
+http://127.0.0.1:6878/ace/manifest.m3u8?id=861bbba2263bf0707ce223e4933b79db6b48b018
