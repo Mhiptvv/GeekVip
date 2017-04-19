@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,=======GENERALISTA(**NAOACTUALIZAR-sic/sicnoticias/sicradical/tvi/tvi24**)=======
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://oi65.tinypic.com/33o41es.jpg", RTP 1
-http://clientportal.link:8080/live/agoni.unhz/xuRCAkn5IM/3208.ts
+http://iptv.jinbox.nl:1339/live/draganskype/7NXVzEbTK0/1215.ts
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://oi68.tinypic.com/4v4oee.jpg", RTP 2
 http://clientportal.link:8080/live/agoni.unhz/xuRCAkn5IM/3209.ts
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="http://oi68.tinypic.com/19tdh5.jpg",PT: RTP 3
