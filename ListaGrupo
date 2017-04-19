@@ -29,9 +29,9 @@ http://62.167.50.245:8000/play/a02f
 #EXTINF:-1 tvg-id="TVIReal.pt" tvg-logo="http://oi66.tinypic.com/fm2o80.jpg",PT: TVI REALITY
 http://ultra-iptv.best-tv.us:13884/live/lana/lana/4711.ts
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="http://oi66.tinypic.com/33075w4.jpg",PT: CMTV
-http://62.167.50.245:8000/play/a03v
+http://213.13.26.11:1935/live/cmtv/geektugavip.m3u8
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-logo="http://oi65.tinypic.com/2difw3p.jpg",PT: A BOLA TV
-http://62.167.50.245:8000/play/a02g
+http://213.13.26.11:1935/live/bolatv/geektugavip.m3u8
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="http://oi66.tinypic.com/2afjwua.jpg",PT: PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/geektugavip.m3u8
 
