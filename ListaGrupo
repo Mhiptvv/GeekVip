@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1,=======GENERALISTA(**NAOACTUALIZAR-sic/sicnoticias/sicradical/tvi/tvi24**)=======
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://oi65.tinypic.com/33o41es.jpg", RTP 1
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1896.ts
+http://clientportal.link:8080/live/agoni.unhz/xuRCAkn5IM/3208.ts
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://oi68.tinypic.com/4v4oee.jpg", RTP 2
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1895.ts
+http://clientportal.link:8080/live/agoni.unhz/xuRCAkn5IM/3209.ts
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="http://oi68.tinypic.com/19tdh5.jpg",PT: RTP 3
 http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/1894.ts
 #EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-logo="http://oi68.tinypic.com/2q19sfp.jpg",PT: RTP MEMORIA
